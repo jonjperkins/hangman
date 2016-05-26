@@ -1,0 +1,31 @@
+---
+- heuristic
+- !ruby/object:Player
+  name: Jon
+- - h
+  - e
+  - '_ '
+  - r
+  - '_ '
+  - s
+  - t
+  - '_ '
+  - c
+- - h
+  - e
+  - u
+  - r
+  - i
+  - s
+  - t
+  - i
+  - c
+- 4
+- - c
+  - o
+  - e
+  - h
+  - r
+  - s
+  - t
+  - ''
